@@ -1,5 +1,4 @@
 WITH top_paying_jobs AS (
-v  
     SELECT
         job_id,
         job_title,
